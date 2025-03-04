@@ -78,12 +78,10 @@ label= "BASE"                              ;
  bindings = <
 // ╷           ╷            ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp Q        &kp W       &kp E       &kp R       &kp T           &kp Y       &kp U       &kp I       &kp O       &kp P
-                &mt LSHIFT A &mt LALT S  &mt LCTRL D &mt LGUI F &kp G           &kp H       &mt LGUI J  &mt LALT K  &mt LCTRL L &mt RSHIFT SEMI
-    &kp Q       &kp Z        &kp X       &kp C       &kp V       &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp BSLH
-                                        &kp DEL   &lt NAV TAB   &kp SPACE       &kp RET   &lt SYM ESC   &kp BSPC
-                        >;
-                };
+                &kp Q        &kp W        &kp E       &kp R       &kp T           &kp Y       &kp U        &kp I       &kp O       &kp P
+                &mt LSHIFT A &mt LCTRL S  &mt LALT D  &mt LGUI F  &kp G           &kp H       &mt LGUI J   &mt LALT K  &mt LCTRL L &mt RSHIFT  SEMI
+    &kp Q       &kp Z        &kp X        &kp C       &kp V       &kp B           &kp N       &kp M        &kp COMMA   &kp DOT     &kp FSLH    &kp BSLH
+                                          &kp DEL     &lt NAV TAB &kp SPACE       &kp RET     &lt SYM ESC  &kp BSPC
 
 // ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
 
